@@ -11,3 +11,11 @@ h2 {
     color: rgb(12, 230, 12);
     font-size: medium;
 }
+
+.blue-text {
+    color: rgb(98, 168, 253);
+}
+
+a {
+    text-decoration: none;
+}
