@@ -1,0 +1,13 @@
+body {
+    font-style: "cursive";
+    font-size: large;
+    margin:5%;
+    padding:5%;
+    color: #000;
+    border: solid;
+}
+
+h2 {
+    color: rgb(12, 230, 12);
+    font-size: medium;
+}
